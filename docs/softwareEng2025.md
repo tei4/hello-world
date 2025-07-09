@@ -1,3 +1,9 @@
+---
+layout: page
+title: "software Eng. lecture note"
+permalink: /docs/softwareEng2025
+---
+
 # ソフトウェア工学 第1~6回概要
 ## 第1回
 この講義のおおまかなスケジュールや概要が示された．
